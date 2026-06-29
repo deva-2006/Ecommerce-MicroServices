@@ -39,9 +39,9 @@ A production-aligned microservices backend system built with Spring Boot, Spring
 
 ```
                           ┌─────────────────────────────┐
-                          │        Eureka Server         │
-                          │           :8761              │
-                          │   (Service Registry)         │
+                          │        Eureka Server        │
+                          │           :8761             │
+                          │   (Service Registry)        │
                           └──────────────┬──────────────┘
                                          │ All services register here
                                          │
